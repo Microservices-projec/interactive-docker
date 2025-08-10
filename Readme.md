@@ -9,6 +9,8 @@ We have a basic Python script `app.py` that:
 2. Calculates their sum.
 3. Displays the result.
 
+We also uploaded this roject image on Hub.  
+
 The main goal is to show that **Docker containers can also run programs in interactive mode**, not just automated scripts.
 
 ---
